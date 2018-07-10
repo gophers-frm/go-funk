@@ -1,4 +1,4 @@
-# wavelet
+# wavelet - normal version
 
 In this challenge we will render images and gifs of waveforms from a wav file.
 
