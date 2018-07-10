@@ -5,6 +5,7 @@ In this challenge we will render images and gifs of waveforms from a wav file.
 The following functionality has been removed and needs to be implmeneted:
 
 - `AbsAvg` - A sampler function that samples a slice and returns the average values of the slice's absolute values
+- `AvgAbs` - A sampler function that samples a slice and returns the average of all absolute values within the slide
 - `Project` - function that normalizes the values in a slice of integers to a given maximum
 - `DrawRectangle` - A function that draws a rectangle of given bounds inside an image.
 - `RenderGopherFrame` A function that returns a paletted image for a gif
