@@ -4,7 +4,7 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/wwgberlin/go-funk/renderer"
+	"github.com/gophers-frm/go-funk/renderer"
 )
 
 // ColorGopherFunc takes an image and returns a renderer.ColorFunc
